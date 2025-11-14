@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm Derrick Chen  
 
-<!--
-**ZhuoxiChen09/ZhuoxiChen09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 **Cognitive Science & Applied Math @ UC San Diego**  
+💻 Passionate about **Machine Learning, Cognitive Modeling, and Research Automation**  
+🔬 Focused on bridging **Neuroscience + AI** through computational methods  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project  
+**[TH Intensity Measurement](https://github.com/ZhuoxiChen09/th-intensity-measurement)**  
+Automated ImageJ + Java workflow for quantifying TH intensity in MitoPark mouse brain slices.  
+> Built for UCSD Neurobiology Lab to standardize dopaminergic neuron intensity analysis.
+
+---
+
+### 🧰 Tech & Tools  
+`Python` `Java` `React Native` `ImageJ` `MATLAB` `PyTorch`  
+`pandas` `NumPy` `OpenCV` `Figma` `Git`
+
+---
+
+### 🌐 Connect  
+📫 [chenzhuoxi458@gmail.com](mailto:chenzhuoxi458@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/zhuoxi-chen09)
