@@ -21,6 +21,15 @@ A Java + ImageJ workflow automating the quantification of **tyrosine hydroxylase
 
 ---
 
+## Concept Design Work  
+In addition to research and engineering, I also design early-stage system concepts and user flows grounded in cognitive science.  
+My recent work includes the **NoCrastination** concept prototype, which explores how UI structure, cognitive offloading, and attention-guidance principles can improve focus and task planning.
+
+**Concept Repository:**  
+🔗 [NoCrastination — Concept Design](https://github.com/ZhuoxiChen09/NoCrastination-Concept)
+
+---
+
 ## Technical Skills  
 **Programming:** Java, Python, MATLAB, JavaScript, HTML/CSS  
 **Frameworks & Libraries:** React Native, PyTorch, pandas, NumPy, scikit-learn  
