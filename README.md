@@ -5,8 +5,8 @@
 ---
 
 ## About Me  
-I’m a third-year undergraduate at UC San Diego exploring the intersection of machine learning and cognitive neuroscience.
-My work involves applying computational methods to analyze biological data and build systems that enhance human cognition and decision-making.
+I’m a third-year undergraduate at UC San Diego exploring the intersection of machine learning and cognitive neuroscience.  
+My work involves applying computational methods to analyze biological data and build systems that enhance human cognition and decision-making.  
 I focus on clean design, reproducible workflows, and connecting theoretical principles with practical applications.
 
 ---
@@ -30,6 +30,12 @@ My recent work includes the **NoCrastination** concept prototype, which explores
 
 ---
 
+## Résumé  
+📄 **Current Resume:**  
+[View / Download PDF](https://drive.google.com/file/d/1S2w_ynW-4biKAWKr_ZZ2C_8Nc-OD_WyL/view?usp=sharing)
+
+---
+
 ## Technical Skills  
 **Programming:** Java, Python, MATLAB, JavaScript, HTML/CSS  
 **Frameworks & Libraries:** React Native, PyTorch, pandas, NumPy, scikit-learn  
@@ -44,4 +50,4 @@ My recent work includes the **NoCrastination** concept prototype, which explores
 
 ---
 
-*Last updated: November 2025*
+*Last updated: December 2025*
