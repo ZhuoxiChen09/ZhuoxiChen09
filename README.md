@@ -1,14 +1,13 @@
-# Hi there, I'm Derrick Chen  
+# Hi there, I'm Zhuoxi 'Derrick' Chen  
 
 **UC San Diego — Cognitive Science & Applied Mathematics**  
-Machine Learning • Neuroscience • Research Automation  
 
 ---
 
 ## About Me  
-I’m an undergraduate researcher at UC San Diego interested in the intersection of **machine learning and cognitive neuroscience**.  
-My work focuses on using computational tools to analyze biological data and develop intelligent systems that extend human cognition.  
-I value clean design, reproducible analysis, and bridging theory with application.
+I’m a third-year undergraduate at UC San Diego exploring the intersection of machine learning and cognitive neuroscience.
+My work involves applying computational methods to analyze biological data and build systems that enhance human cognition and decision-making.
+I focus on clean design, reproducible workflows, and connecting theoretical principles with practical applications.
 
 ---
 
