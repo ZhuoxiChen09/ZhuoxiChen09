@@ -5,10 +5,11 @@
 ---
 
 ## About Me  
-I’m a third-year undergraduate at UC San Diego exploring the intersection of machine learning and cognitive neuroscience.  
-My work involves applying computational methods to analyze biological data and build systems that enhance human cognition and decision-making.  
-I focus on clean design, reproducible workflows, and connecting theoretical principles with practical applications.
+I’m an undergraduate at UC San Diego majoring in Cognitive Science (ML & Neural Computation) and Applied Mathematics, with minors in Computer Science and Philosophy. I work at the intersection of computational neuroscience, data analysis, and machine learning systems.
 
+I’ve built automated ImageJ pipelines for TH-intensity quantification in Parkinsonian mouse models, cleaned and analyzed large-scale biological datasets, and developed ML/LLM-based decision-support tools, including calendar and task-prioritization systems.
+
+My interests center on how cognitive and statistical principles can be turned into reliable, interpretable computational systems. Especially in settings where reproducibility, human understanding, and practical usability matter as much as raw performance.
 ---
 
 ## Projects
@@ -27,6 +28,7 @@ Machine learning project comparing KNN regression models to predict song popular
 - Best model achieves 65% variance explanation with distance-weighted KNN (k=5)
 
 ### [mini-rag](https://github.com/ZhuoxiChen09/mini-rag)  
+**Status:** Playground / experimental  
 A compact Retrieval-Augmented Generation (RAG) demonstration embedding local text files and answering questions using instruction-tuned language models.
 - Embeds `.txt` files and builds retrieval indices
 - Interactive query loop with context-aware generation
@@ -34,22 +36,29 @@ A compact Retrieval-Augmented Generation (RAG) demonstration embedding local tex
 
 ---
 
-## Concept Design
+## NoCrastination
 
-In addition to research and engineering, I design early-stage system concepts and user flows grounded in cognitive science.
+A broader project exploring how to reduce procrastination using cognitive science, UX design, and LLM-based tooling.
+
+### [Calendar MVP](https://github.com/ZhuoxiChen09/calendar_mvp)  
+**Status:** In progress  
+Node.js + TypeScript backend and React frontend that parse university course syllabi (text or PDF) into prioritized task lists using an LLM.
+- REST API for syllabus parsing with text/PDF endpoints and priority scoring  
+- PDF and text ingestion pipeline with sample syllabi and automated API tests  
+- Vite-based web UI to upload syllabi and view due dates, weights, and priority ordering  
 
 ### [NoCrastination — Concept Design](https://github.com/ZhuoxiChen09/NoCrastination-Concept)  
-A productivity assistant concept inspired by cognitive science, behavioral psychology, and human-centered design.
-- Reduces decision fatigue through cognitive offloading and attention guidance
-- Early UI screens, user flow concepts, and system architecture
-- Integrates principles like task chunking and temporal motivation theory
-- Visual identity and product direction documentation
+Concept design for a productivity assistant grounded in cognitive science, informing the Calendar MVP implementation.
+- Reduces decision fatigue through cognitive offloading and attention guidance  
+- Early UI screens, user flow concepts, and system architecture  
+- Integrates principles like task chunking and temporal motivation theory  
+- Visual identity and product direction documentation  
 
 ---
 
 ## Résumé  
 **Current Resume:**  
-[View / Download PDF](https://drive.google.com/file/d/1S2w_ynW-4biKAWKr_ZZ2C_8Nc-OD_WyL/view?usp=sharing)
+[View / Download PDF](https://drive.google.com/file/d/1bHOrX3hOBiqMP7y3dHz3mRw_L35W7BZN/view?usp=drive_link)
 
 ---
 
