@@ -27,6 +27,13 @@ Machine learning project comparing KNN regression models to predict song popular
 - Analyzes relationship between music metrics (streams, playlists, views) and song popularity
 - Best model achieves 65% variance explanation with distance-weighted KNN (k=5)
 
+### [DEUCE](https://github.com/ZhuoxiChen09/DUECE)  
+Python toolkit for **pre-match tennis research** on Kalshi-style binary contracts: market quotes, player context, calibrated win probabilities, edge signals, and bankroll backtests.
+- End-to-end research stack: feature tiers, scikit-learn training pipeline, and pricing versus live market data  
+- **FastAPI** service with ingest orchestration and **SQLite** persistence; **Streamlit** UI for exploration and operations  
+- Backtesting library with configurable edge thresholds and stake rules; live score normalization across multiple providers  
+- Structured **CLI** (`deuce.cli`) for training, tiers, and workflows; pytest-backed CI  
+
 ### [mini-rag](https://github.com/ZhuoxiChen09/mini-rag)  
 **Status:** Playground / experimental  
 A compact Retrieval-Augmented Generation (RAG) demonstration embedding local text files and answering questions using instruction-tuned language models.
@@ -64,7 +71,7 @@ Concept design for a productivity assistant grounded in cognitive science, infor
 
 ## Technical Skills  
 **Programming:** Java, Python, MATLAB, JavaScript, HTML/CSS  
-**Frameworks & Libraries:** React Native, PyTorch, pandas, NumPy, scikit-learn  
+**Frameworks & Libraries:** React Native, PyTorch, pandas, NumPy, scikit-learn, FastAPI, Streamlit  
 **Tools:** ImageJ/Fiji, Figma, Git, Vercel, DaVinci Resolve  
 **Specialties:** Data analysis, neural modeling, research automation, UI/UX prototyping  
 
@@ -76,4 +83,4 @@ Concept design for a productivity assistant grounded in cognitive science, infor
 
 ---
 
-*Last updated: December 2025*
+*Last updated: April 2026*
