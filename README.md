@@ -27,7 +27,7 @@ Machine learning project comparing KNN regression models to predict song popular
 - Analyzes relationship between music metrics (streams, playlists, views) and song popularity
 - Best model achieves 65% variance explanation with distance-weighted KNN (k=5)
 
-### [DEUCE](https://github.com/ZhuoxiChen09/DUECE)  
+### [DEUCE](https://github.com/ZhuoxiChen09/DEUCE)  
 Python toolkit for **pre-match tennis research** on Kalshi-style binary contracts: market quotes, player context, calibrated win probabilities, edge signals, and bankroll backtests.
 - End-to-end research stack: feature tiers, scikit-learn training pipeline, and pricing versus live market data  
 - **FastAPI** service with ingest orchestration and **SQLite** persistence; **Streamlit** UI for exploration and operations  
