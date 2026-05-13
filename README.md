@@ -65,7 +65,7 @@ Concept design for a productivity assistant grounded in cognitive science, infor
 
 ## Résumé  
 **Current Resume:**  
-[View / Download PDF](https://drive.google.com/file/d/1bHOrX3hOBiqMP7y3dHz3mRw_L35W7BZN/view?usp=drive_link)
+[View / Download PDF](https://drive.google.com/file/d/12aZr3u0GgiBz9EuiLw1durG0dLx_uqlQ/view?usp=sharing)
 
 ---
 
