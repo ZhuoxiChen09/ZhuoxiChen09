@@ -1,18 +1,17 @@
-# Hi there, I'm Zhuoxi 'Derrick' Chen
+<h1 align="center">Zhuoxi “Derrick” Chen</h1>
+<p align="center"><strong>UC San Diego — Cognitive Science (ML &amp; Neural Computation) · Applied Mathematics</strong></p>
+<p align="center">
+  <a href="mailto:chenzhuoxi458@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/zhuoxi-chen09">LinkedIn</a>
+</p>
 
-**UC San Diego — Cognitive Science & Applied Mathematics**
-
----
-
-## About Me
+## Overview
 
 I'm an undergraduate at UC San Diego majoring in Cognitive Science (ML & Neural Computation) and Applied Mathematics, with minors in Computer Science and Philosophy. I work at the intersection of computational neuroscience, applied machine learning, and music-information retrieval.
 
 I've built automated ImageJ pipelines for TH-intensity quantification in Parkinsonian mouse models, trained Transformers and DDSP-style synths from scratch for symbolic-to-audio music generation, and developed LLM-based decision-support tools including calendar and task-prioritization systems.
 
 My interests center on how cognitive and statistical principles can be turned into reliable, interpretable computational systems — especially in settings where reproducibility, human understanding, and practical usability matter as much as raw performance.
-
----
 
 ## Projects
 
@@ -33,6 +32,12 @@ Three music-understanding tasks tackled with hybrid **classical + deep learning*
 
 ### Applied ML & Quantitative Research
 
+#### [allen-cell-types-analysis](https://github.com/ZhuoxiChen09/allen-cell-types-analysis)
+Exploratory analysis and classification of neuronal cell types using electrophysiology and morphology data from the Allen Brain Atlas Cell Types Database.
+- EDA of cell metadata (`cells.json`) and electrophysiology feature table (`ephys_features.csv`)
+- Dimensionality reduction (PCA / UMAP) and unsupervised clustering over ephys feature space
+- Supervised classification of dendrite type and species from ephys features
+
 #### [DEUCE](https://github.com/ZhuoxiChen09/DEUCE)
 Python toolkit for **pre-match tennis research** on Kalshi-style binary contracts: market quotes, player context, calibrated win probabilities, edge signals, and bankroll backtests.
 - End-to-end research stack: feature tiers, scikit-learn training pipeline, and pricing versus live market data
@@ -46,7 +51,7 @@ Machine learning project comparing KNN regression models to predict song popular
 - Analyzes the relationship between music metrics (streams, playlists, views) and song popularity
 - Best model achieves 65% variance explained with distance-weighted KNN (k = 5)
 
-### Cognitive Science & Productivity — *NoCrastination*
+### Cognitive Science & Productivity (NoCrastination)
 
 A broader project line exploring how to reduce procrastination using cognitive science, UX design, and LLM-based tooling.
 
@@ -79,13 +84,9 @@ A compact Retrieval-Augmented Generation (RAG) demo: embeds local text files and
 - Interactive query loop with context-aware generation
 - Minimal, reproducible reference implementation
 
----
-
 ## Résumé
 **Current Resume:**
 [View / Download PDF](https://drive.google.com/file/d/1vwxEn6lcXiSiTCnq77Sh4szdDt27fjfU/view?usp=sharing)
-
----
 
 ## Technical Skills
 **Programming:** Python, Java, JavaScript / TypeScript, MATLAB, HTML / CSS
@@ -93,13 +94,5 @@ A compact Retrieval-Augmented Generation (RAG) demo: embeds local text files and
 **Backend & UI:** FastAPI, Node.js, React, Vite, Streamlit, REST APIs
 **Data & Tooling:** pandas, NumPy, SQLite, Git, ImageJ / Fiji, Figma, DaVinci Resolve, Vercel
 **Specialties:** Reproducible research pipelines, model ensembling, neural-audio modeling, research automation, UI / UX prototyping
-
----
-
-## Connect
-📧 **Email:** [chenzhuoxi458@gmail.com](mailto:chenzhuoxi458@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/zhuoxi-chen09](https://linkedin.com/in/zhuoxi-chen09)
-
----
 
 *Last updated: June 2026*
